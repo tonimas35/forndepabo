@@ -1,0 +1,16 @@
+{
+  "name": "Forn de Pa Bo - Forn de Pa Artesà",
+  "short_name": "Forn de Pa Bo",
+  "description": "Farina, aigua i molta paciència. Tradició familiar a cada mossegada.",
+  "start_url": "/forndepabo/",
+  "display": "standalone",
+  "background_color": "#FFFDF7",
+  "theme_color": "#5C3D2E",
+  "icons": [
+    {
+      "src": "/forndepabo/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
